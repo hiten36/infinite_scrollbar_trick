@@ -1,0 +1,7 @@
+.media{
+    transition: all 0.3s;
+}
+.media:hover{
+    transform: scale(1.02);
+    box-shadow: 0 0 11px rgba(33,33,33,.6);
+}
